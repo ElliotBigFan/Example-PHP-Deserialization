@@ -1,0 +1,8 @@
+version: '3'
+services:
+  php-unserialize-lab:
+    build: .
+    ports:
+      - "7749:80"
+    volumes:
+      - .:/var/www/html
