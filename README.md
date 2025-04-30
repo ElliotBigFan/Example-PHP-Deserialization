@@ -6,8 +6,8 @@ This lab demonstrates a PHP deserialization vulnerability. The vulnerability exi
 ### How to Run the Lab
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/php-serialization-logger.git
-   cd php-serialization-logger
+   git clone https://github.com/ElliotBigFan/php-serialization.git
+   cd php-serialization
    ```
 2. Build and run the Docker container:
    ```bash
@@ -34,8 +34,8 @@ Bài lab này minh họa một lỗ hổng bảo mật liên quan đến việc 
 ### Cách chạy Lab
 1. Clone repository này:
    ```bash
-   git clone https://github.com/your-repo/php-serialization-logger.git
-   cd php-serialization-logger
+   git clone https://github.com/ElliotBigFan/php-serialization.git
+   cd php-serialization
    ```
 2. Xây dựng và chạy container Docker:
    ```bash
