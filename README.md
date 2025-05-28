@@ -1,4 +1,4 @@
-# PHP Serialization Vulnerability Lab
+# PHP Deserialization Vulnerability Lab
 
 ## Overview (English)
 This lab demonstrates a PHP deserialization vulnerability. The vulnerability exists in the `Logger` class, which allows attackers to execute arbitrary code by crafting malicious serialized payloads.
